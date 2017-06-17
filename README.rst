@@ -14,9 +14,9 @@ A `Django Debug Toolbar
 .. image:: https://raw.githubusercontent.com/giginet/django-debug-toolbar-vcs-info/master/images/vcs_info_panel.png
 
 Supported python versions
-    2.7, 3.3, 3.4, 3.5
+    2.7, 3.3, 3.4, 3.5, 3.6
 Supported django versions
-    1.7 - 1.10
+    1.7 - 1.11
 Supported VCS
     git
 
